@@ -1,0 +1,975 @@
+1
+1
+BST_pretty{}
+1
+0
+1
+1
+1
+1
+0
+BST_pretty{}
+BST_pretty{}
+0
+1
+0
+BST_pretty{
+	root:42
+}
+0
+1
+1
+0
+BST_pretty{
+	root:42
+}
+1
+BST_pretty{
+	root:42
+}
+0
+0
+1
+1
+BST_pretty{}
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+BST_pretty{
+	root:453
+}
+0
+1
+1
+BST_pretty{
+	root:56
+	---l:6
+}
+0
+1
+1
+BST_pretty{}
+BST_pretty{
+	root:453
+}
+BST_pretty{}
+0
+0
+BST_pretty{
+	root:453
+}
+0
+0
+0
+0
+1
+1
+0
+BST_pretty{
+	root:140
+}
+1
+0
+0
+BST_pretty{
+	root:140
+}
+0
+0
+1
+0
+0
+0
+0
+1
+1
+1
+0
+BST_pretty{
+	root:140
+	---r:231
+	------l:143
+}
+1
+0
+0
+1
+BST_pretty{
+	root:140
+	---r:143
+}
+BST_pretty{
+	root:140
+	---r:143
+}
+0
+0
+BST_pretty{
+	root:140
+	---r:143
+}
+0
+BST_pretty{
+	root:82
+}
+0
+0
+BST_pretty{
+	root:82
+}
+0
+0
+1
+0
+0
+BST_pretty{
+	root:288
+}
+1
+BST_pretty{
+	root:82
+}
+0
+1
+BST_pretty{
+	root:82
+}
+1
+1
+1
+0
+1
+1
+1
+0
+1
+1
+BST_pretty{}
+1
+0
+1
+0
+BST_pretty{
+	root:143
+	---r:498
+	------l:279
+}
+1
+1
+0
+0
+BST_pretty{}
+0
+0
+BST_pretty{}
+0
+1
+1
+BST_pretty{}
+0
+BST_pretty{}
+0
+0
+0
+BST_pretty{
+	root:304
+}
+0
+1
+1
+0
+1
+BST_pretty{
+	root:457
+}
+1
+1
+0
+1
+0
+1
+1
+1
+0
+0
+0
+BST_pretty{}
+0
+0
+BST_pretty{}
+BST_pretty{}
+0
+1
+1
+0
+1
+1
+1
+1
+0
+BST_pretty{
+	root:294
+	---l:249
+	---r:407
+}
+0
+0
+0
+1
+0
+0
+0
+0
+0
+BST_pretty{
+	root:34
+	---r:500
+}
+0
+BST_pretty{
+	root:294
+	---l:249
+	---r:407
+}
+1
+0
+BST_pretty{
+	root:294
+	---r:407
+}
+1
+BST_pretty{
+	root:294
+	---r:407
+}
+BST_pretty{
+	root:294
+	---r:407
+}
+BST_pretty{}
+0
+1
+0
+BST_pretty{}
+BST_pretty{
+	root:407
+}
+BST_pretty{
+	root:407
+}
+0
+0
+1
+BST_pretty{
+	root:294
+	---l:249
+	---r:407
+}
+0
+BST_pretty{
+	root:294
+	---l:249
+	---r:407
+}
+1
+BST_pretty{
+	root:294
+	---l:249
+	---r:407
+}
+0
+0
+BST_pretty{}
+0
+1
+0
+BST_pretty{
+	root:294
+	---l:249
+	---r:407
+}
+1
+1
+0
+1
+1
+0
+1
+0
+0
+1
+1
+0
+BST_pretty{
+	root:249
+	---l:111
+	---r:407
+	------r:468
+}
+0
+0
+1
+0
+1
+0
+0
+1
+0
+1
+BST_pretty{
+	root:486
+	---l:84
+}
+0
+BST_pretty{
+	root:249
+	---l:111
+	---r:407
+	------r:468
+}
+0
+0
+1
+1
+1
+1
+1
+1
+0
+1
+BST_pretty{
+	root:111
+	---r:249
+}
+BST_pretty{
+	root:249
+	---l:111
+	---r:407
+	------r:468
+	---------l:460
+}
+BST_pretty{
+	root:111
+	---r:249
+}
+0
+0
+1
+1
+1
+1
+1
+1
+1
+BST_pretty{
+	root:111
+	---l:77
+	------l:50
+	---r:249
+}
+1
+0
+1
+BST_pretty{
+	root:84
+	---r:264
+}
+BST_pretty{
+	root:111
+	---l:63
+	---r:249
+	------l:197
+}
+0
+BST_pretty{
+	root:111
+	---l:63
+	---r:249
+	------l:197
+}
+1
+BST_pretty{
+	root:111
+	---l:77
+	------l:50
+	---r:249
+}
+1
+BST_pretty{
+	root:111
+	---l:77
+	------l:50
+	---r:249
+}
+0
+0
+1
+0
+0
+1
+1
+BST_pretty{
+	root:111
+	---l:77
+	------l:50
+	---r:249
+}
+1
+BST_pretty{
+	root:111
+	---l:77
+	------l:50
+	---r:249
+}
+0
+1
+1
+0
+0
+BST_pretty{}
+0
+0
+0
+BST_pretty{
+	root:111
+	---l:63
+	---r:249
+	------l:197
+	------r:418
+	---------l:265
+}
+0
+0
+BST_pretty{
+	root:264
+}
+1
+0
+0
+1
+1
+0
+1
+0
+BST_pretty{
+	root:111
+	---l:63
+	---r:249
+	------l:197
+	------r:418
+	---------l:265
+}
+0
+0
+BST_pretty{
+	root:111
+	---l:63
+	---r:249
+	------l:197
+	------r:418
+	---------l:265
+}
+0
+0
+1
+BST_pretty{
+	root:111
+	---l:50
+	---r:249
+	------r:334
+}
+BST_pretty{
+	root:111
+	---l:50
+	---r:249
+	------r:334
+}
+1
+0
+1
+0
+0
+0
+1
+0
+BST_pretty{
+	root:166
+	---l:64
+	---r:373
+}
+BST_pretty{
+	root:111
+	---l:63
+	---r:249
+	------l:197
+	------r:418
+	---------l:265
+}
+0
+0
+1
+BST_pretty{
+	root:111
+	---l:63
+	---r:249
+	------l:197
+	------r:418
+	---------l:265
+}
+1
+0
+1
+1
+1
+BST_pretty{
+	root:111
+	---l:63
+	---r:249
+	------l:197
+	------r:418
+	---------l:265
+}
+0
+1
+0
+0
+BST_pretty{
+	root:111
+	---l:63
+	---r:249
+	------r:418
+	---------l:265
+}
+0
+0
+1
+BST_pretty{
+	root:64
+}
+BST_pretty{
+	root:64
+}
+0
+0
+1
+0
+1
+1
+0
+0
+1
+0
+0
+1
+1
+1
+0
+BST_pretty{
+	root:166
+	---r:373
+	------l:305
+}
+BST_pretty{
+	root:111
+	---l:63
+	------l:58
+}
+0
+0
+0
+0
+0
+0
+1
+1
+1
+0
+0
+BST_pretty{
+	root:166
+	---l:74
+	---r:373
+}
+1
+0
+BST_pretty{
+	root:166
+	---l:74
+	---r:373
+	------l:213
+}
+BST_pretty{
+	root:166
+	---l:74
+	---r:373
+	------l:213
+}
+BST_pretty{
+	root:166
+	---l:74
+	---r:373
+	------l:213
+}
+1
+0
+0
+0
+1
+0
+BST_pretty{
+	root:166
+	---l:74
+	---r:373
+	------l:213
+}
+1
+0
+BST_pretty{
+	root:111
+	---l:63
+	------l:58
+}
+0
+1
+1
+BST_pretty{
+	root:166
+	---l:74
+	------l:39
+	------r:140
+	---r:373
+	------l:213
+	---------l:178
+}
+0
+BST_pretty{
+	root:111
+	---l:63
+	------l:58
+	---r:494
+}
+1
+1
+0
+BST_pretty{
+	root:166
+	---l:74
+	------l:39
+	------r:140
+	---r:373
+	------l:213
+	---------l:178
+}
+1
+0
+BST_pretty{
+	root:166
+	---l:74
+	---r:373
+	------l:213
+}
+1
+0
+0
+1
+BST_pretty{
+	root:213
+	---l:166
+	---r:373
+}
+1
+1
+0
+1
+0
+0
+1
+BST_pretty{
+	root:166
+	---l:74
+	------l:39
+	------r:140
+	---r:373
+	------l:213
+	---------l:178
+}
+0
+1
+1
+1
+1
+BST_pretty{
+	root:373
+}
+0
+BST_pretty{
+	root:166
+	---l:74
+	------l:39
+	------r:140
+	---r:213
+	------l:178
+	---------r:201
+	------r:242
+}
+BST_pretty{
+	root:166
+	---l:74
+	------l:39
+	------r:140
+	---r:213
+	------l:178
+	---------r:201
+	------r:242
+}
+1
+1
+0
+0
+0
+1
+0
+BST_pretty{
+	root:166
+	---l:74
+	------l:39
+	------r:140
+	---r:201
+	------r:242
+}
+0
+0
+0
+BST_pretty{
+	root:213
+	---r:373
+	------r:457
+}
+1
+1
+BST_pretty{
+	root:373
+}
+0
+1
+0
+1
+BST_pretty{
+	root:213
+	---r:457
+}
+0
+BST_pretty{
+	root:166
+	---l:74
+	------l:39
+	------r:140
+	---r:201
+	------r:242
+	---------l:220
+}
+BST_pretty{}
+0
+1
+BST_pretty{}
+BST_pretty{}
+1
+0
+0
+0
+BST_pretty{}
+0
+0
+BST_pretty{
+	root:213
+}
+BST_pretty{}
+0
+0
+1
+0
+0
+0
+1
+1
+BST_pretty{
+	root:112
+}
+BST_pretty{}
+1
+0
+1
+1
+BST_pretty{}
+1
+1
+0
+0
+1
+0
+0
+1
+0
+BST_pretty{
+	root:213
+	---l:198
+	------l:173
+	---r:420
+}
+0
+1
+1
+1
+0
+1
+0
+1
+0
+0
+BST_pretty{
+	root:244
+}
+0
+0
+0
+BST_pretty{
+	root:244
+}
+0
+BST_pretty{
+	root:244
+}
+BST_pretty{
+	root:244
+}
+1
+0
+BST_pretty{
+	root:244
+}
+1
+1
+1
+0
+1
+BST_pretty{
+	root:244
+	---l:103
+}
+0
+0
+BST_pretty{
+	root:173
+	---r:420
+	------l:356
+}
+BST_pretty{
+	root:173
+	---r:420
+	------l:356
+}
+1
+0
+0
+0
+1
+BST_pretty{
+	root:173
+	---r:420
+	------l:356
+}
+1
+0
+BST_pretty{
+	root:173
+	---r:420
+	------l:356
+}
+0
+0
+0
+1
+1
+BST_pretty{
+	root:103
+	---r:420
+}
+1
+BST_pretty{
+	root:103
+	---r:420
+}
+0
+0
+1
+0
+0
+0
+BST_pretty{}
+0
+0
+1
+0
+0
+0
+0
+1
+0
+BST_pretty{
+	root:244
+	---l:103
+}
+0
+0
+1
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+BST_pretty{
+	root:244
+	---l:103
+	------l:20
+}
+BST_pretty{
+	root:420
+}
+0
+1
+0
+1
+0
+BST_pretty{
+	root:244
+}
+1
+BST_pretty{
+	root:356
+	---l:293
+	---r:420
+}
+1
+0
+1
+0
+0
+1
+1
+1
+0
+0
