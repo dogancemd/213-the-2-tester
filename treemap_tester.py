@@ -10,8 +10,8 @@ for outnum in range(100):
         test_score+=1
         print(f"Passed {outnum+1}")
     else:
-        if os.path.isdir("./TreeMapDifferentOutputs"):
-            os.mkdir("TreeMapDifferentOutputs")
+        if not os.path.isdir("./TreeMapDifferentOutputs"):
+            os.mkdir("TreeMapDifferentOutputs/")
         os.system(f"cp ./myout TreeMapDifferentOutputs/kvout{outnum+1}")
         print(f"Test case {outnum+1} is failed")
 os.system(f"rm ./a.out ./myout")
