@@ -12,7 +12,7 @@ for outnum in range(100):
     else:
         if os.path.isdir("./TreeMapDifferentOutputs"):
             os.mkdir("TreeMapDifferentOutputs")
-        os.system(f"cp ./a.out TreeMapDifferentOutputs/kvout{outnum+1}")
+        os.system(f"cp ./myout TreeMapDifferentOutputs/kvout{outnum+1}")
         print(f"Test case {outnum+1} is failed")
 os.system(f"rm ./a.out ./myout")
 print(f"\n\nYour score is {test_score}/100\nat least compared to mine")
