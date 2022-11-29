@@ -1,794 +1,453 @@
-BST_pretty{}
-BST_pretty{}
-1
-0
-1
-1
-BST_pretty{}
-1
-BST_pretty{}
-0
-0
-1
-BST_pretty{}
-0
-BST_pretty{}
-1
-0
-1
-1
-0
-1
+Line no:51
 BST_pretty{
-	root:160
-	---l:68
-	---r:424
+	root:43
 }
-BST_pretty{}
-BST_pretty{}
-1
-1
-1
-1
-0
-0
-0
-BST_pretty{}
-1
-0
-0
-0
-0
-1
-BST_pretty{}
-0
-1
-1
-0
-0
-1
-1
+Line no:71
+Line no:81
+Line no:91
+Line no:101
+Line no:111
+Line no:121
+Line no:131
+Line no:141
+Line no:151
+Line no:161
+Line no:171
+Line no:181
+Line no:191
+Line no:221
+Line no:231
+Line no:241
+Line no:251
+Line no:261
+Line no:270
+Line no:281
+Line no:291
+Line no:300
+Line no:310
+Line no:321
+Line no:341
+Line no:361
+Line no:371
+Line no:381
+Line no:391
+Line no:401
+Line no:411
+Line no:421
 BST_pretty{
-	root:370
-}
-1
-BST_pretty{
-	root:194
-}
-1
-1
-0
-1
-0
-1
-1
-1
-0
-0
-0
-BST_pretty{}
-0
-BST_pretty{}
-1
-1
-0
-1
-1
-BST_pretty{}
-1
-1
-BST_pretty{
-	root:499
-}
-BST_pretty{
-	root:499
-}
-0
-BST_pretty{}
-1
-1
-BST_pretty{
-	root:499
-	---l:8
-}
-BST_pretty{
-	root:67
-}
-0
-BST_pretty{
-	root:499
-}
-1
-1
-1
-1
-0
-0
-BST_pretty{
-	root:499
-	---l:8
-}
-0
-0
-0
-1
-BST_pretty{
-	root:499
-	---l:8
-}
-0
-1
-BST_pretty{}
-1
-BST_pretty{
-	root:499
-	---l:8
-}
-0
-0
-0
-1
-BST_pretty{
-	root:499
-	---l:8
-}
-BST_pretty{
-	root:499
-	---l:8
-}
-1
-0
-0
-1
-0
-BST_pretty{}
-0
-0
-0
-1
-BST_pretty{}
-1
-0
-0
-0
-BST_pretty{
-	root:499
-}
-0
-BST_pretty{
-	root:499
-}
-0
-0
-BST_pretty{
-	root:499
-}
-BST_pretty{
-	root:499
-}
-BST_pretty{
-	root:499
-}
-BST_pretty{}
-0
-0
-0
-1
-0
-0
-BST_pretty{
-	root:499
-	---l:152
-}
-0
-0
-0
-0
-0
-1
-0
-0
-0
-0
-1
-0
-BST_pretty{}
-1
-1
-1
-BST_pretty{
-	root:473
-}
-0
-0
-1
-0
-1
-0
-1
-1
-0
-1
-0
-0
-BST_pretty{
-	root:126
-}
-1
-1
-0
-0
-0
-BST_pretty{
-	root:473
-	---l:380
-}
-0
-0
-1
-1
-0
-0
-1
-0
-0
-BST_pretty{
-	root:499
-	---l:18
-}
-0
-0
-BST_pretty{
-	root:473
-	---l:380
-}
-0
-0
-BST_pretty{
-	root:126
+	root:31
 	---r:153
+	------r:490
 }
-0
-0
-1
-1
+Line no:441
+Line no:451
+Line no:461
+Line no:471
+Line no:481
+Line no:491
+Line no:501
+Line no:510
+Line no:521
+Line no:5331
+Line no:54153
+Line no:5531
+Line no:5631
+Line no:57153
+Line no:5831
+Line no:591
+Line no:602
+Line no:610
 BST_pretty{
-	root:473
-	---l:135
+	root:236
+	---l:36
+	---r:404
+	------r:413
 }
-1
-0
+Line no:641
+Line no:651
+Line no:661
+Line no:671
+Line no:681
+Line no:691
+Line no:701
+Line no:711
+Line no:721
+Line no:731
+Line no:741
+Line no:751
+Line no:761
+Line no:771
+Line no:781
+Line no:791
+Line no:801
+Line no:811
+Line no:821
+Line no:831
+Line no:841
+Line no:851
+Line no:861
+Line no:871
+Line no:881
+Line no:891
+Line no:901
+Line no:911
+Line no:920
+Line no:931
+Line no:941
+Line no:951
 BST_pretty{
-	root:380
+	root:10
+	---r:116
+	------r:419
+	---------l:173
+	------------l:121
+	---------------r:126
+	------------r:293
+	---------------r:323
 }
-1
-1
-1
-1
-1
-1
-0
+Line no:971
+Line no:981
+Line no:991
+Line no:1000
+Line no:1011
+Line no:1021
+Line no:1031
+Line no:1041
+Line no:1051
 BST_pretty{
-	root:441
+	root:236
+	---r:413
 }
-0
-BST_pretty{}
+Line no:1071
+Line no:1081
+Line no:1091
+Line no:1101
+Line no:11110
+Line no:112440
+Line no:113173
+Line no:114173
+Line no:115293
+Line no:116173
+Line no:1175
+Line no:11810
+Line no:1191
+Line no:1201
+Line no:1211
+Line no:1221
+Line no:1231
+Line no:1241
+Line no:1251
+Line no:1261
+Line no:1271
+Line no:1281
 BST_pretty{
-	root:441
+	root:232
+	---l:202
+	------r:221
+	---r:386
 }
-0
-1
-1
-0
-0
-1
-1
-0
-0
-BST_pretty{}
-1
-0
-1
+Line no:1301
+Line no:1311
+Line no:1321
 BST_pretty{
-	root:43
+	root:10
+	---r:116
+	------l:45
+	------r:419
+	---------l:173
+	------------l:126
+	---------------l:121
+	------------r:293
+	---------------l:287
+	---------------r:323
+	---------r:440
 }
-0
-1
+Line no:1341
+Line no:1351
+Line no:1361
+Line no:1371
+Line no:1381
 BST_pretty{
-	root:499
-	---l:18
-	------r:97
+	root:10
+	---r:116
+	------l:45
+	---------r:49
+	------r:419
+	---------l:173
+	------------l:126
+	---------------l:121
+	------------r:293
+	---------------l:287
+	------------------l:214
+	---------------r:323
+	---------r:440
 }
-0
+Line no:1401
+Line no:1411
+Line no:1421
+Line no:1431
+Line no:1441
+Line no:1451
+Line no:1461
+Line no:1471
+Line no:1481
+Line no:1491
+Line no:1501
+Line no:1511
+Line no:1521
 BST_pretty{
-	root:499
-	---l:18
-	------r:97
-}
-1
-BST_pretty{
-	root:43
-	---r:286
-}
-0
-0
-BST_pretty{}
-1
-1
-0
-0
-0
-1
-BST_pretty{}
-1
-1
-0
-BST_pretty{}
-BST_pretty{}
-0
-BST_pretty{}
-BST_pretty{}
-0
-0
-0
-BST_pretty{}
-1
-0
-1
-BST_pretty{
-	root:103
-}
-0
-0
-0
-1
-1
-BST_pretty{}
-1
-0
-1
-1
-BST_pretty{}
-0
-1
-1
-0
-0
-0
-1
-0
-0
-1
-BST_pretty{}
-BST_pretty{
-	root:48
-}
-1
-1
-1
-0
-0
-BST_pretty{
-	root:490
-	---l:322
-	------l:8
-}
-BST_pretty{}
-0
-1
-BST_pretty{}
-BST_pretty{}
-BST_pretty{
-	root:490
-	---l:322
-	------l:8
+	root:10
+	---r:116
+	------l:45
+	---------r:49
+	------r:419
+	---------l:173
+	------------l:126
+	---------------l:121
+	------------r:293
+	---------------l:198
+	------------------l:183
+	------------------r:287
+	---------------r:323
+	---------r:440
 }
 BST_pretty{
-	root:490
-	---l:322
-	------l:8
+	root:10
+	---r:116
+	------l:45
+	---------r:49
+	------r:419
+	---------l:173
+	------------l:126
+	---------------l:121
+	------------r:293
+	---------------l:198
+	------------------l:183
+	------------------r:287
+	---------------r:323
+	---------r:440
 }
-1
-1
-0
-1
+Line no:1551
+Line no:1561
+Line no:1571
+Line no:1581
+Line no:1591
+Line no:1601
+Line no:1611
+Line no:1621
+Line no:1631
+Line no:1641
+Line no:1651
+Line no:1661
 BST_pretty{
-	root:490
+	root:202
+	---l:69
+	------l:28
+	---------r:57
+	------r:82
+	---r:250
+	------r:275
+	---------l:261
+	---------r:411
 }
-BST_pretty{}
-1
+Line no:1681
+Line no:16945
+Line no:170430
+Line no:17145
+Line no:17245
+Line no:17349
+Line no:17445
+Line no:1754
+Line no:17610
+Line no:1771
+Line no:1781
+Line no:1791
+Line no:1801
+Line no:1811
+Line no:1821
+Line no:1831
+Line no:1841
+Line no:1851
+Line no:1861
+Line no:1871
+Line no:1891
+Line no:1901
+Line no:1911
+Line no:1921
+Line no:1931
+Line no:1941
+Line no:1951
 BST_pretty{
-	root:456
-	---l:8
-	------r:161
+	root:183
+	---l:118
+	------l:49
+	---------r:111
+	------r:126
+	---------r:173
+	---r:287
+	------l:198
+	---------r:277
+	------r:293
+	---------r:430
 }
-1
-1
-1
-1
-BST_pretty{}
-1
-0
-1
-0
-1
-1
+Line no:1971
+Line no:1981
+Line no:1991
 BST_pretty{
-	root:436
+	root:183
+	---l:118
+	------l:49
+	---------r:111
+	------r:126
+	---------r:173
+	---r:287
+	------l:198
+	---------r:277
+	------r:293
+	---------r:430
+	------------l:338
+	------------r:431
 }
-0
-1
-1
-0
+Line no:2011
+Line no:2021
 BST_pretty{
-	root:436
+	root:183
+	---l:118
+	------l:49
+	---------r:111
+	------r:126
+	---------r:173
+	---r:287
+	------l:198
+	---------r:277
+	------r:293
+	---------r:430
+	------------l:338
+	------------r:431
 }
-0
-1
-1
+Line no:2041
+Line no:2051
+Line no:2061
+Line no:2081
+Line no:2091
+Line no:2101
+Line no:2111
 BST_pretty{
-	root:456
-	---l:8
-	------r:161
-	---------l:110
-	---------r:389
-	------------l:361
-	---r:468
+	root:183
+	---l:118
+	------l:49
+	---------r:111
+	------------l:107
+	------r:126
+	---------r:173
+	---r:287
+	------l:198
+	---------r:277
+	------r:293
+	---------r:430
+	------------l:338
+	------------r:431
 }
-0
-1
-0
-0
+Line no:2131
+Line no:2141
+Line no:2151
+Line no:2161
+Line no:2171
+Line no:2181
+Line no:2191
+Line no:2201
+Line no:2211
+Line no:2221
+Line no:2231
+Line no:2241
+Line no:2251
+Line no:2261
+Line no:22749
+Line no:228431
+Line no:229107
+Line no:230107
+Line no:231111
+Line no:232107
+Line no:2335
+Line no:23415
 BST_pretty{
-	root:304
-}
-0
-0
-0
-0
-0
-1
-BST_pretty{
-	root:26
-}
-0
-0
-1
-0
-BST_pretty{
-	root:26
-}
-0
-1
-1
-0
-0
-BST_pretty{
-	root:304
-	---l:46
-	------r:179
-}
-0
-1
-1
-0
-0
-BST_pretty{}
-0
-1
-BST_pretty{
-	root:106
-	---r:232
-}
-1
-1
-1
-0
-0
-BST_pretty{
-	root:106
-	---r:232
-}
-1
-1
-BST_pretty{
-	root:106
-	---r:232
-}
-1
-0
-1
-0
-BST_pretty{}
-1
-0
-0
-0
-0
-1
-0
-0
-1
-0
-BST_pretty{
-	root:304
-	---l:179
-	------r:267
-}
-0
-0
-0
-0
-1
-0
-BST_pretty{}
-1
-0
-0
-BST_pretty{}
-1
-0
-1
-1
-1
-0
-0
-0
-0
-1
-0
-0
-1
-0
-0
-BST_pretty{
-	root:122
-	---r:230
-}
-1
-1
-BST_pretty{
-	root:122
-	---r:230
-}
-1
-0
-1
-0
-1
-1
-BST_pretty{
-	root:368
-	---l:139
-	------r:356
-	---------l:234
-}
-0
-1
-BST_pretty{}
-1
-1
-BST_pretty{
-	root:368
-	---l:139
-	------r:356
-	---------l:234
-}
-0
-BST_pretty{}
-1
-0
-1
-BST_pretty{
-	root:368
-	---l:139
-	------r:356
-	---------l:234
-	---------r:358
-}
-0
-0
-1
-1
-0
-BST_pretty{}
-1
-0
-1
-0
-1
-1
-1
-0
-1
-1
-1
-BST_pretty{
-	root:368
+	root:183
 	---l:111
-	------l:4
-	------r:356
-	---------l:234
-	---------r:358
+	------l:49
+	---------r:107
+	------------l:60
+	------r:126
+	---------r:173
+	------------l:163
+	---r:287
+	------l:277
+	---------l:231
+	------r:293
+	---------r:338
+	------------r:431
+	---------------l:414
+}
+BST_preorder{
+	183,
+	111,
+	49,
+	107,
+	60,
+	126,
+	173,
+	163,
+	287,
+	277,
+	231,
+	293,
+	338,
+	431,
+	414
+}
+BST_inorder{
+	49,
+	60,
+	107,
+	111,
+	126,
+	163,
+	173,
+	183,
+	231,
+	277,
+	287,
+	293,
+	338,
+	414,
+	431
+}
+BST_postorder{
+	60,
+	107,
+	49,
+	163,
+	173,
+	126,
+	111,
+	231,
+	277,
+	414,
+	431,
+	338,
+	293,
+	287,
+	183
 }
 BST_pretty{
-	root:368
-	---l:111
-	------l:4
-	------r:356
-	---------l:234
-	---------r:358
+	root:183
+	---l:118
+	------l:49
+	------r:126
+	---------r:173
+	---r:287
+	------r:293
+	---------r:338
+	------------r:431
+	---------------l:416
+	---------------r:443
 }
-BST_pretty{
-	root:368
-	---l:187
-	------l:139
-	------r:234
-	---------r:356
-	------------r:367
-	---r:430
-}
-0
-0
-0
-0
-0
-BST_pretty{
-	root:368
-	---l:187
-	------l:139
-	------r:234
-	---------r:356
-	------------r:367
-	---r:430
-}
-0
-1
-1
-1
-0
-1
-1
-1
-1
-BST_pretty{
-	root:368
-	---l:111
-	------l:4
-	------r:356
-	---------l:234
-	---------r:358
-}
-0
-0
-0
-0
-1
-0
-0
-1
-1
-0
-BST_pretty{
-	root:234
-	---l:187
-	------l:139
-}
-BST_pretty{
-	root:139
-	---l:130
-	---r:187
-}
-1
-BST_pretty{
-	root:234
-	---l:187
-	------l:139
-}
-1
-BST_pretty{
-	root:139
-	---l:130
-	---r:187
-}
-0
-BST_pretty{
-	root:139
-	---l:130
-	---r:187
-}
-BST_pretty{}
-BST_pretty{
-	root:139
-	---l:130
-	---r:187
-}
-0
-0
-1
-1
-1
-1
-1
-0
-1
-1
-1
-1
-0
-1
-1
-0
-0
-0
-0
-1
-BST_pretty{
-	root:139
-}
-0
-BST_pretty{
-	root:139
-}
-0
-0
-0
-1
-0
-BST_pretty{}
-1
-BST_pretty{
-	root:139
-}
-1
-0
-1
-BST_pretty{
-	root:139
-	---l:130
-	---r:187
-}
-1
-0
-1
-0
-0
-BST_pretty{
-	root:207
-	---l:98
-	------l:57
-}
-0
-1
-0
-BST_pretty{
-	root:68
-	---r:395
-}
-1
-BST_pretty{}
-1
-1
-1
-0
-BST_pretty{
-	root:207
-	---l:98
-	------l:57
-	------r:140
-}
-BST_pretty{
-	root:187
-	---r:485
-	------l:391
-}
-BST_pretty{
-	root:68
-	---r:395
-	------l:242
-}
-BST_pretty{
-	root:68
-	---r:395
-}
-1
