@@ -926,9 +926,9 @@ BST_pretty{
 0
 1
 BST_pretty{
-	root:120
-	---l:82
-	------l:77
+	root:82
+	---l:77
+	---r:120
 }
 BST_pretty{
 	root:82
@@ -955,17 +955,17 @@ BST_pretty{
 	---l:86
 }
 BST_pretty{
-	root:120
-	---l:82
-	------l:77
-	---r:302
+	root:82
+	---l:77
+	---r:120
+	------r:302
 }
 0
 BST_pretty{
-	root:120
-	---l:82
-	------l:77
-	---r:302
+	root:82
+	---l:77
+	---r:120
+	------r:302
 }
 1
 1

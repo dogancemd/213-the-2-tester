@@ -507,21 +507,21 @@ BST_pretty{
 1
 0
 BST_pretty{
-	root:211
-	---l:127
+	root:127
+	---r:211
 }
 0
 1
 1
 BST_pretty{
-	root:211
-	---l:127
+	root:127
+	---r:211
 }
 0
 0
 BST_pretty{
-	root:211
-	---l:127
+	root:127
+	---r:211
 }
 1
 0

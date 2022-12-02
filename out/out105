@@ -141,10 +141,10 @@ Line no:1261
 Line no:1271
 Line no:1281
 BST_pretty{
-	root:232
-	---l:202
-	------r:221
-	---r:386
+	root:202
+	---r:232
+	------l:221
+	------r:386
 }
 Line no:1301
 Line no:1311

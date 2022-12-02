@@ -67,17 +67,17 @@ Line no:671
 Line no:681
 Line no:691
 BST_pretty{
-	root:407
-	---l:300
-	------l:256
-	---r:422
+	root:300
+	---l:256
+	---r:407
+	------r:422
 }
 Line no:711
 BST_pretty{
-	root:407
-	---l:300
-	------l:256
-	---r:422
+	root:300
+	---l:256
+	---r:407
+	------r:422
 }
 Line no:731
 Line no:741

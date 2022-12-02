@@ -135,8 +135,8 @@ BST_pretty{
 1
 0
 BST_pretty{
-	root:109
-	---l:35
+	root:35
+	---r:109
 }
 1
 1

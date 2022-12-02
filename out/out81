@@ -117,10 +117,10 @@ Line no:921
 Line no:931
 Line no:941
 BST_pretty{
-	root:383
-	---l:111
-	------l:106
-	------r:161
+	root:111
+	---l:106
+	---r:383
+	------l:161
 }
 Line no:961
 Line no:971

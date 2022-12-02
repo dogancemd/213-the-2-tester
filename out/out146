@@ -33,11 +33,11 @@ Line no:311
 Line no:321
 Line no:331
 BST_pretty{
-	root:236
-	---l:203
-	------l:165
-	------r:235
-	---r:415
+	root:203
+	---l:165
+	---r:236
+	------l:235
+	------r:415
 }
 Line no:351
 Line no:361
@@ -46,11 +46,11 @@ Line no:381
 Line no:391
 Line no:401
 BST_pretty{
-	root:235
-	---l:203
-	------l:165
-	---------l:162
-	---r:447
+	root:203
+	---l:165
+	------l:162
+	---r:235
+	------r:447
 }
 Line no:421
 Line no:431
@@ -63,7 +63,7 @@ Line no:49162
 Line no:50162
 Line no:51165
 Line no:52162
-Line no:534
+Line no:533
 Line no:547
 Line no:551
 Line no:561
@@ -71,13 +71,13 @@ Line no:571
 Line no:581
 Line no:591
 BST_pretty{
-	root:235
-	---l:203
-	------l:165
-	---------l:84
-	---r:447
-	------l:241
-	---------r:243
+	root:203
+	---l:165
+	------l:84
+	---r:235
+	------r:447
+	---------l:241
+	------------r:243
 }
 Line no:611
 Line no:621
