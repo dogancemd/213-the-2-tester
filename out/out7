@@ -1,61 +1,61 @@
-Line no:51
-Line no:61
-Line no:71
-Line no:81
-Line no:91
+Line no:5 1
+Line no:6 1
+Line no:7 1
+Line no:8 1
+Line no:9 1
 BST_pretty{
 	root:169
 }
-Line no:111
-Line no:121
+Line no:11 1
+Line no:12 1
 BST_pretty{}
-Line no:161
-Line no:170
+Line no:16 1
+Line no:17 0
 BST_pretty{}
-Line no:191
-Line no:201
-Line no:211
-Line no:221
-Line no:231
-Line no:240
-Line no:251
-Line no:261
-Line no:271
-Line no:281
-Line no:291
-Line no:300
-Line no:311
-Line no:321
-Line no:331
-Line no:341
-Line no:351
-Line no:361
-Line no:371
-Line no:381
-Line no:391
-Line no:401
-Line no:411
-Line no:421
-Line no:430
-Line no:441
-Line no:451
-Line no:461
-Line no:471
-Line no:481
-Line no:490
-Line no:500
-Line no:511
-Line no:520
-Line no:5313
-Line no:54432
-Line no:55102
-Line no:56206
-Line no:57206
-Line no:58Line no:592
-Line no:606
-Line no:610
-Line no:620
-Line no:631
+Line no:19 1
+Line no:20 1
+Line no:21 1
+Line no:22 1
+Line no:23 1
+Line no:24 0
+Line no:25 1
+Line no:26 1
+Line no:27 1
+Line no:28 1
+Line no:29 1
+Line no:30 0
+Line no:31 1
+Line no:32 1
+Line no:33 1
+Line no:34 1
+Line no:35 1
+Line no:36 1
+Line no:37 1
+Line no:38 1
+Line no:39 1
+Line no:40 1
+Line no:41 1
+Line no:42 1
+Line no:43 0
+Line no:44 1
+Line no:45 1
+Line no:46 1
+Line no:47 1
+Line no:48 1
+Line no:49 0
+Line no:50 0
+Line no:51 1
+Line no:52 0
+Line no:53 13
+Line no:54 432
+Line no:55 102
+Line no:56 206
+Line no:57 206
+Line no:58 Line no:59 2
+Line no:60 6
+Line no:61 0
+Line no:62 0
+Line no:63 1
 BST_pretty{
 	root:210
 	---l:124
@@ -67,42 +67,42 @@ BST_pretty{
 	------l:313
 	---------l:219
 }
-Line no:651
-Line no:661
-Line no:671
-Line no:681
-Line no:691
-Line no:701
-Line no:711
-Line no:721
-Line no:731
-Line no:741
-Line no:751
-Line no:761
-Line no:770
-Line no:781
-Line no:791
-Line no:801
-Line no:811
-Line no:821
-Line no:831
-Line no:841
-Line no:851
-Line no:860
-Line no:870
-Line no:880
-Line no:891
-Line no:901
-Line no:911
-Line no:920
-Line no:930
-Line no:940
-Line no:951
-Line no:961
-Line no:971
-Line no:981
-Line no:990
-Line no:1000
+Line no:65 1
+Line no:66 1
+Line no:67 1
+Line no:68 1
+Line no:69 1
+Line no:70 1
+Line no:71 1
+Line no:72 1
+Line no:73 1
+Line no:74 1
+Line no:75 1
+Line no:76 1
+Line no:77 0
+Line no:78 1
+Line no:79 1
+Line no:80 1
+Line no:81 1
+Line no:82 1
+Line no:83 1
+Line no:84 1
+Line no:85 1
+Line no:86 0
+Line no:87 0
+Line no:88 0
+Line no:89 1
+Line no:90 1
+Line no:91 1
+Line no:92 0
+Line no:93 0
+Line no:94 0
+Line no:95 1
+Line no:96 1
+Line no:97 1
+Line no:98 1
+Line no:99 0
+Line no:100 0
 BST_pretty{
 	root:210
 	---l:124
@@ -120,7 +120,7 @@ BST_pretty{
 	---------r:372
 	------------r:409
 }
-Line no:1021
+Line no:102 1
 BST_pretty{
 	root:206
 	---l:102
@@ -140,57 +140,57 @@ BST_pretty{
 	------r:432
 	---------r:474
 }
-Line no:1041
-Line no:1051
-Line no:1060
-Line no:1071
-Line no:1081
-Line no:1090
-Line no:1100
-Line no:11113
-Line no:112474
-Line no:113474
-Line no:114474
-Line no:115Line no:116474
-Line no:1175
-Line no:11816
-Line no:1191
-Line no:1200
-Line no:1211
-Line no:1221
-Line no:1231
-Line no:1241
-Line no:1251
-Line no:1261
-Line no:1271
-Line no:1280
-Line no:1291
-Line no:1301
-Line no:1310
-Line no:1321
-Line no:1331
-Line no:1341
-Line no:1351
-Line no:1361
-Line no:1371
-Line no:1381
-Line no:1391
-Line no:1400
-Line no:1410
-Line no:1421
-Line no:1431
-Line no:1441
-Line no:1450
-Line no:1460
-Line no:1471
-Line no:1481
-Line no:1491
-Line no:1501
-Line no:1511
-Line no:1521
-Line no:1530
-Line no:1541
-Line no:1550
+Line no:104 1
+Line no:105 1
+Line no:106 0
+Line no:107 1
+Line no:108 1
+Line no:109 0
+Line no:110 0
+Line no:111 13
+Line no:112 474
+Line no:113 474
+Line no:114 474
+Line no:115 Line no:116 474
+Line no:117 5
+Line no:118 16
+Line no:119 1
+Line no:120 0
+Line no:121 1
+Line no:122 1
+Line no:123 1
+Line no:124 1
+Line no:125 1
+Line no:126 1
+Line no:127 1
+Line no:128 0
+Line no:129 1
+Line no:130 1
+Line no:131 0
+Line no:132 1
+Line no:133 1
+Line no:134 1
+Line no:135 1
+Line no:136 1
+Line no:137 1
+Line no:138 1
+Line no:139 1
+Line no:140 0
+Line no:141 0
+Line no:142 1
+Line no:143 1
+Line no:144 1
+Line no:145 0
+Line no:146 0
+Line no:147 1
+Line no:148 1
+Line no:149 1
+Line no:150 1
+Line no:151 1
+Line no:152 1
+Line no:153 0
+Line no:154 1
+Line no:155 0
 BST_pretty{
 	root:206
 	---l:102
@@ -218,16 +218,16 @@ BST_pretty{
 	------------r:416
 	---------r:462
 }
-Line no:1571
-Line no:1580
-Line no:1590
-Line no:1601
-Line no:1621
-Line no:1631
-Line no:1640
-Line no:1650
-Line no:1661
-Line no:1671
+Line no:157 1
+Line no:158 0
+Line no:159 0
+Line no:160 1
+Line no:162 1
+Line no:163 1
+Line no:164 0
+Line no:165 0
+Line no:166 1
+Line no:167 1
 BST_pretty{
 	root:210
 	---l:124
@@ -251,15 +251,15 @@ BST_pretty{
 	---------------r:419
 	------------------l:416
 }
-Line no:16913
-Line no:170486
-Line no:171486
-Line no:172486
-Line no:173Line no:174486
-Line no:1757
-Line no:17621
-Line no:1771
-Line no:1780
+Line no:169 13
+Line no:170 486
+Line no:171 486
+Line no:172 486
+Line no:173 Line no:174 486
+Line no:175 7
+Line no:176 21
+Line no:177 1
+Line no:178 0
 BST_pretty{
 	root:210
 	---l:124
@@ -283,7 +283,7 @@ BST_pretty{
 	------------------r:486
 	---------------------l:457
 }
-Line no:1801
+Line no:180 1
 BST_pretty{
 	root:210
 	---l:124
@@ -308,8 +308,8 @@ BST_pretty{
 	------------------r:486
 	---------------------l:457
 }
-Line no:1831
-Line no:1840
+Line no:183 1
+Line no:184 0
 BST_pretty{
 	root:210
 	---l:124
@@ -335,10 +335,10 @@ BST_pretty{
 	------------------r:486
 	---------------------l:457
 }
-Line no:1861
-Line no:1871
-Line no:1881
-Line no:1891
+Line no:186 1
+Line no:187 1
+Line no:188 1
+Line no:189 1
 BST_pretty{
 	root:210
 	---l:124
@@ -366,23 +366,23 @@ BST_pretty{
 	------------------r:486
 	---------------------l:457
 }
-Line no:1921
-Line no:1931
-Line no:1940
-Line no:1951
-Line no:1970
-Line no:1991
-Line no:2001
-Line no:2010
-Line no:2020
-Line no:2031
-Line no:2040
-Line no:2051
-Line no:2061
-Line no:2071
-Line no:2080
-Line no:2091
-Line no:2111
+Line no:192 1
+Line no:193 1
+Line no:194 0
+Line no:195 1
+Line no:197 0
+Line no:199 1
+Line no:200 1
+Line no:201 0
+Line no:202 0
+Line no:203 1
+Line no:204 0
+Line no:205 1
+Line no:206 1
+Line no:207 1
+Line no:208 0
+Line no:209 1
+Line no:211 1
 BST_pretty{
 	root:210
 	---l:124
@@ -412,11 +412,11 @@ BST_pretty{
 	------------------------r:462
 	---------------------------r:467
 }
-Line no:2131
-Line no:2141
-Line no:2151
-Line no:2161
-Line no:2171
+Line no:213 1
+Line no:214 1
+Line no:215 1
+Line no:216 1
+Line no:217 1
 BST_pretty{
 	root:210
 	---l:124
@@ -449,10 +449,10 @@ BST_pretty{
 	------------------------r:462
 	---------------------------r:467
 }
-Line no:2190
-Line no:2201
-Line no:2211
-Line no:2221
+Line no:219 0
+Line no:220 1
+Line no:221 1
+Line no:222 1
 BST_pretty{
 	root:210
 	---l:124
@@ -518,7 +518,7 @@ BST_pretty{
 	------------------------r:462
 	---------------------------r:467
 }
-Line no:2251
+Line no:225 1
 BST_pretty{
 	root:210
 	---l:124
@@ -585,15 +585,15 @@ BST_pretty{
 	------------------------l:467
 	------------------------r:486
 }
-Line no:22813
-Line no:229486
-Line no:230441
-Line no:231441
-Line no:232457
-Line no:233441
-Line no:2349
-Line no:23531
-Line no:2361
+Line no:228 13
+Line no:229 486
+Line no:230 441
+Line no:231 441
+Line no:232 457
+Line no:233 441
+Line no:234 9
+Line no:235 31
+Line no:236 1
 BST_preorder{
 	210,
 	124,
